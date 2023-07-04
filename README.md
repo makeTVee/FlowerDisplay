@@ -26,13 +26,12 @@ Make sure the pins are not longer than 1mm
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/6cd11524-f881-4f95-8b32-33dd1d0beee6)
 
 ### 5. Flower power
-
-   Add a 5V power supply and cut the wires on the front in the same way. There is a cutout in the white diffusor.
+Add a 5V power supply and cut the wires on the front in the same way. There is a cutout in the white diffusor.
    
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/71438997-9fc9-4f59-b537-f96211bc0225)
 
 ### 6. Assembly
-Snap all back in into the frame and add the stand. Make sure, the display is aligned with the frame as shown for correct mapping.
+Before putting everything back together, ensure, that the frame and panel are aligned in a way, that the holes for the stand are at the top and bottom of the frame like in the picture. Snap all back in into the frame and add the stand. 
    
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/b9d752ae-39e3-4f05-833a-50d8bd3a0f0f)
 
