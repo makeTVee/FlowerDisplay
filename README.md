@@ -25,9 +25,11 @@ Before starting the process, you have to remove the stand by slightly bend it ti
 5. Flower power
 
    Add a 5V power supply and cut the wires on the front in the same way. There is a cutout in the white diffusor.
+   
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/71438997-9fc9-4f59-b537-f96211bc0225)
 
-6. Snap all back in into the frame and add the stand. Make sure, the display is aligned with the frame as shown for correct mapping.
+7. Snap all back in into the frame and add the stand. Make sure, the display is aligned with the frame as shown for correct mapping.
+   
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/b9d752ae-39e3-4f05-833a-50d8bd3a0f0f)
 
 ### Pixelblaze mapping:
