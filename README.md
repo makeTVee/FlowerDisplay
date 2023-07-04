@@ -72,4 +72,8 @@ You can either just restore the Pixelblaze_flower.pbb file from this repo to you
 [105,10],[103,5],[98,3],[93,5],[91,10],[93,15],[98,17],[103,15]
 ]
 ```
+### 8. Different controller
+If you prefer a different controller or a standard Pixelblaze, you can either solder the controller to the pads used for the Pico or the 3 pads on the side. There you can also direclty connect your 5V power if the controller provides it (e.g. vias USB). The panel has 200 WS2812C LEDs (WS2812B in Neopixel or FastLED lib).
+
+![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/5a3ee70a-9953-4e5f-a3f6-12bf54a24b6f)
 
