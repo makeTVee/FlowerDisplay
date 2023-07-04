@@ -36,7 +36,9 @@ Snap all back in into the frame and add the stand. Make sure, the display is ali
    
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/b9d752ae-39e3-4f05-833a-50d8bd3a0f0f)
 
-### Pixelblaze mapping:
+### 7. Setup Pixelblaze 
+You can either just restore the Pixelblaze_flower.pbb file from this repo to your Pixelblaze which includes the mapping and some animations. Or you can manually add the mapping using this code:
+
 ```
 [
 [17,98],[15,93],[10,91],[5,93],[3,98],[5,103],[10,105],[15,103],
