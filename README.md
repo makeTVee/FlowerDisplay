@@ -1,22 +1,27 @@
-# FlowerDisplay
-LED flower display based on 8LED ring panel
+# FlowerDisplay v0.9
+LED flower display based on 8-LED-ring panel
+
+No specific controller needed, any Arduino/Pixelblaze/Pi Pico etc. possible. But there are dedicated pads to directly solder a Pixelblaze Pico to the panel. So the following process descibes the assebly with a Pixelblaze Pico. Other controllers are mentioned at the end.
+
+Before starting the process, you have to remove the stand by slightly bend it ti the side to snap it out of the holes. Then you can pop out the PCB and diffusor. Try to not push directly on the flowers.
 
 1. Add a pinheader to the Pixelblaze Pico
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/ace7e3d2-4ccf-4708-9c0a-27f8771aba0b)
 
-2. Solder the pico to the FlowerMatrix PCB
+2. Solder the Pico to the FlowerMatrix PCB as shown
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/37f89998-03cf-426d-b277-f18d95af116c)
 
-3. Cut the pins on the front to less than 1mm
+3. Cut the pins on the front to less than 1mm so they don't protrude above the white diffusor panel.
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/d0e721c5-0a67-4234-834c-0bd2bc9499f6)
 
-4. Make sure the pins are not longer than 1mm (end with the white diffusor)
+4. Make sure the pins are not longer than 1mm 
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/6cd11524-f881-4f95-8b32-33dd1d0beee6)
 
 5. Flower power
+   Add a 5V power supply and cut the wires on the front in the same way. There is a cutout in the white diffusor.
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/71438997-9fc9-4f59-b537-f96211bc0225)
 
-6. Snap all back into the frame and add the stand. make sure, the display is aligned with the frame as shown for correct mapping.
+7. Snap all back in into the frame and add the stand. Make sure, the display is aligned with the frame as shown for correct mapping.
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/b9d752ae-39e3-4f05-833a-50d8bd3a0f0f)
 
 Pixelblaze mapping:
