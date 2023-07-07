@@ -1,6 +1,4 @@
 # FlowerDisplay v0.9
-![VID_20230615_195026_exported_42702~2](https://github.com/makeTVee/FlowerDisplay/assets/18531000/002b4b21-d069-4a61-927b-ec90b8ff6666)
-
 This project involves creating an LED flower display using an 8-LED-ring production panel, which has full wiring for the rings in a vertical zig-zag configuration. If you seperate the rings from the panel, the wiring is broken. The panel doesn't require a specific controller and can be powered by Arduino, Pixelblaze, Pi Pico, or other compatible devices. However, the panel has dedicated pads for directly soldering a [Pixelblaze Pico](https://shop.electromage.com/products/pixelblaze-v3-pico-tiny-wifi-led-controller). The assembly process described below assumes the use of a Pixelblaze Pico, but alternative controllers are mentioned at the end.
 
 Before starting the assembly process, you need to remove the stand by gently bending it to the side to snap it out of the holes. This will allow you to easily remove the PCB and diffuser without exerting direct pressure on the flowers.
