@@ -1,5 +1,5 @@
 # FlowerDisplay v0.9
-This project involves creating an LED flower display using an 8-LED-ring production panel. It doesn't require a specific controller and can be powered by Arduino, Pixelblaze, Pi Pico, or other compatible devices. However, the panel has dedicated pads for directly soldering a [Pixelblaze Pico](https://shop.electromage.com/products/pixelblaze-v3-pico-tiny-wifi-led-controller). The assembly process described below assumes the use of a Pixelblaze Pico, but alternative controllers are mentioned at the end.
+This project involves creating an LED flower display using an 8-LED-ring production panel, which has full wiring for the rings in a vertical zig-zag configuration. If you seperate the rings from the panel, the wiring is broken. The panel doesn't require a specific controller and can be powered by Arduino, Pixelblaze, Pi Pico, or other compatible devices. However, the panel has dedicated pads for directly soldering a [Pixelblaze Pico](https://shop.electromage.com/products/pixelblaze-v3-pico-tiny-wifi-led-controller). The assembly process described below assumes the use of a Pixelblaze Pico, but alternative controllers are mentioned at the end.
 
 Before starting the assembly process, you need to remove the stand by gently bending it to the side to snap it out of the holes. This will allow you to easily remove the PCB and diffuser without exerting direct pressure on the flowers.
 
@@ -29,7 +29,11 @@ Add a 5V power supply and cut the wires on the front in the same way. There is a
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/71438997-9fc9-4f59-b537-f96211bc0225)
 
 ### 6. Assembly
-Before putting everything back together, ensure, that the frame and panel are aligned in a way, that the holes for the stand are at the top and bottom of the frame like in the picture. Snap all back in into the frame and add the stand. 
+Before putting everything back together, ensure, that the frame and panel are aligned in a way, that the holes for the stand are at the top and bottom of the frame like in the picture. 
+
+![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/f8447c18-56f7-44ec-82e8-5f3e62e8d3cd)
+
+Snap all back in into the frame and add the stand. 
    
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/b9d752ae-39e3-4f05-833a-50d8bd3a0f0f)
 
