@@ -14,7 +14,7 @@ Solder the Pico to the FlowerMatrix PCB as shown
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/37f89998-03cf-426d-b277-f18d95af116c)
 
 ### 3. Cutting
-Cut the pins on the front to less than 1mm so they don't protrude above the white diffusor panel.
+Cut the pins on the front to less than 1mm so they don't protrude above the white diffusor panel (you don't have to remove the black cover like shown in the picture).
 
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/d0e721c5-0a67-4234-834c-0bd2bc9499f6)
 
