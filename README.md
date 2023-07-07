@@ -14,19 +14,23 @@ Solder the Pico to the FlowerMatrix PCB as shown
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/37f89998-03cf-426d-b277-f18d95af116c)
 
 ### 3. Cutting
-Cut the pins on the front to less than 1mm so they don't protrude above the white diffusor panel (you don't have to remove the black cover like shown in the picture).
+Cut the pins on the front to less than 1mm so they don't protrude above the white diffusor panel.
 
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/d0e721c5-0a67-4234-834c-0bd2bc9499f6)
 
 ### 4. QC
 Make sure the pins are not longer than 1mm
  
-![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/6cd11524-f881-4f95-8b32-33dd1d0beee6)
+![PXL_20230706_174435075](https://github.com/makeTVee/FlowerDisplay/assets/18531000/e27a390f-5c5f-4977-aca5-e9b019258b24)
 
 ### 5. Flower power
-Add a 5V power supply and cut the wires on the front in the same way. There is a cutout in the white diffusor.
+Add a 5V power supply.
    
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/71438997-9fc9-4f59-b537-f96211bc0225)
+
+ Cut the wires on the front side in the same way.There is also a cutout in the white diffusor.
+
+![PXL_20230706_174436404](https://github.com/makeTVee/FlowerDisplay/assets/18531000/0ccf221f-4acb-4b54-860e-8887ac869e03)
 
 ### 6. Assembly
 Before putting everything back together, ensure, that the frame and panel are aligned in a way, that the holes for the stand are at the top and bottom of the frame like in the picture. 
