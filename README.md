@@ -82,7 +82,9 @@ If you prefer a different controller or a standard Pixelblaze, you can either so
 
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/5a3ee70a-9953-4e5f-a3f6-12bf54a24b6f)
 
-## 9. Result
+### 9. Result
+Final result should look like this:
+
 ![VID_20230615_195026_exported_42702~2](https://github.com/makeTVee/FlowerDisplay/assets/18531000/7a893323-d825-4a8e-890a-9b895c513034)
 
 
