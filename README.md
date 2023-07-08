@@ -1,5 +1,5 @@
 # FlowerDisplay v0.9
-This project involves creating an LED flower display using an 8-LED-ring PCB production panel, which has full wiring for the rings in a vertical zig-zag configuration. If you seperate the rings from the panel, the wiring is broken. The panel doesn't require a specific controller and can be powered by Arduino, Pixelblaze, Pi Pico, or other compatible devices. However, the panel has dedicated pads for directly soldering a [Pixelblaze Pico](https://shop.electromage.com/products/pixelblaze-v3-pico-tiny-wifi-led-controller). The assembly process described below assumes the use of a Pixelblaze Pico, but alternative controllers are mentioned at the end.
+This project involves creating an LED flower display using an 8-LED-ring PCB production panel, which has full wiring for the rings in a vertical zig-zag configuration. If you separate the rings from the panel, the wiring will be broken. The panel doesn't require a specific controller and can be powered by Arduino, Pixelblaze, Pi Pico, or other compatible devices. However, the panel has dedicated pads for directly soldering a [Pixelblaze Pico](https://shop.electromage.com/products/pixelblaze-v3-pico-tiny-wifi-led-controller). The assembly process described below assumes the use of a Pixelblaze Pico, but alternative ways of controlling it are mentioned at the end.
 
 Before starting the assembly process, you need to remove the stand by gently bending it to the side to snap it out of the holes. This will allow you to easily remove the PCB and diffuser without exerting direct pressure on the flowers.
 
@@ -28,7 +28,7 @@ Add a 5V power supply.
    
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/71438997-9fc9-4f59-b537-f96211bc0225)
 
- Cut the wires on the front side in the same way.There is also a cutout in the white diffusor.
+Cut the wires on the front side in the same way. There is also a cutout in the white diffusor.
 
 ![PXL_20230706_174436404](https://github.com/makeTVee/FlowerDisplay/assets/18531000/0ccf221f-4acb-4b54-860e-8887ac869e03)
 
@@ -78,7 +78,7 @@ You can either just restore the Pixelblaze_flower.pbb file from this repo to you
 ]
 ```
 ### 8. Different controller
-If you prefer a different controller or want to use a standard Pixelblaze, you can either solder the controller to the pads, which are used for the Pico, or to the 3 pads on the side. There you can also direclty connect your 5V power if the controller provides it (e.g. via USB). The panel has 200 WS2812C LEDs (WS2812B in Neopixel or FastLED lib).
+If you prefer a different controller or want to use a standard Pixelblaze, you can either solder the controller to the pads, which are used for the Pico, or to the 3 pads on the side. There you can also directly connect your 5V power if the controller provides it (e.g. via USB). The panel has 200 WS2812C LEDs (WS2812B in Neopixel or FastLED lib).
 
 ![image](https://github.com/makeTVee/FlowerDisplay/assets/18531000/6045723b-f764-4584-9728-30326be6facd)
 
